@@ -1,0 +1,20 @@
+# Python (สำหรับ Local LLM และ Ollama)
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# C++/Arduino (สำหรับ Raspberry Pi และเซนเซอร์)
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+build/
+applet/
+
+# ไฟล์ขยะของระบบปฏิบัติการ
+.DS_Store
+Thumbs.db
